@@ -1374,7 +1374,6 @@ local function getObjGen()
             Gui.Logo.ZIndex = 122
             Gui.Logo.Image = "rbxassetid://5697885135"
             Gui.Logo.ImageColor3 = Color3.fromRGB(134, 142, 255)
-            Gui.Logo.ScaleType = Enum.ScaleType.Fit
 
             Gui.UIGradient_5.Color =
                 ColorSequence.new {
